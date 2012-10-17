@@ -1,0 +1,27 @@
+CompSci 105 S2 2012		Feedback on Assignment Three
+===================
+
+Name:
+qingquan zhu
+Login:
+qzhu496
+ID:
+2113586
+
+All the work done in this assignment is my own work:  true/false 
+ true
+ 
+How much time did the assignment take overall? 
+ 5 hours
+ 
+What areas of the assignment did you find easy? 
+ 
+ 
+What areas of the assignment did you find difficult? 
+ i didn't meet too many problem this but, but i found out that i didnt use the delete min method provided in the file, didn't know it was there
+ 
+Which topics of the course did the assignment most help you understand? 
+ binary tree
+
+Any other comments you would like to make.
+ the dictionary file is HUGE!!
